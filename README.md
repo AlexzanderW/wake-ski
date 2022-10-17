@@ -1,1 +1,1 @@
-# waki-ski
+# wake-ski
